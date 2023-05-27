@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(225,11): warning C4101: 'impuestos': variable local sin referencia
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(335,37): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  3 AVANCE.vcxproj -> C:\Users\ylega\Downloads\3 AVANCE\x64\Debug\3 AVANCE.exe
