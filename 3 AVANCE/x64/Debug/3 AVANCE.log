@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(197,21): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'std::string *'
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(289,40): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(289,40): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(264,11): warning C4101: 'impuestos': variable local sin referencia
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(320,20): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::string'
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(326,34): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(326,34): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(333,34): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(333,34): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(340,34): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(340,34): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(348,34): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(348,34): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(355,34): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(355,34): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(362,34): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(362,34): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(369,34): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(369,34): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\ylega\Downloads\3 AVANCE\3 AVANCE\Source.cpp(437,37): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  3 AVANCE.vcxproj -> C:\Users\ylega\Downloads\3 AVANCE\x64\Debug\3 AVANCE.exe
